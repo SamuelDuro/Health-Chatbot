@@ -1,0 +1,2514 @@
+### LECTURE NOTES
+
+# Nutrition
+
+## For Health Extension Workers
+
+### Melkie Edris
+
+### Debub University
+
+In collaboration with the Ethiopia Public Health Training Initiative, The Carter Center,
+the Ethiopia Ministry of Health, and the Ethiopia Ministry of Education
+
+##### November 2004
+
+
+```
+Funded under USAID Cooperative Agreement No. 663-A-00-00-0358-00.
+```
+```
+Produced in collaboration with the Ethiopia Public Health Training Initiative, The Carter
+Center, the Ethiopia Ministry of Health, and the Ethiopia Ministry of Education.
+```
+Important Guidelines for Printing and Photocopying
+Limited permission is granted free of charge to print or photocopy all pages of this
+publication for educational, not-for-profit use by health care workers, students or
+faculty. All copies must retain all author credits and copyright notices included in the
+original document. Under no circumstances is it permissible to sell or distribute on a
+commercial basis, or to claim authorship of, copies of material reproduced from this
+publication.
+
+©2004 by Melkie Edris
+
+All rights reserved. Except as expressly provided above, no part of this publication may
+be reproduced or transmitted in any form or by any means, electronic or mechanical,
+including photocopying, recording, or by any information storage and retrieval system,
+without written permission of the author or authors.
+
+##### This material is intended for educational use only by practicing health care workers or
+
+##### students and faculty in a health care field.
+
+
+- i -
+
+#### Acknowledgments
+
+The development of this lecture note for training Health Extension workers is an arduous
+assignment for Ato Melkie Edris at University of Gondar
+
+Essentially, it required the consolidation and merging of existing in depth training
+materials, examination of Health Extension Package manuals and the Curriculum.
+
+Recognizing the importance of and the need for the preparation of the lecture note for
+the Training of Health Extension workers THE CARTER CENTER (TCC) ETHIOPIA
+PUBLIC HEALTH TRAINING INITIATIVE (EPHTI) facilitated the task for University of
+Gondar to write the lecture note in consultation with the Health Extension Coordinating
+Office of the Federal Ministry of Health.
+
+Finally the Federal Ministry of Health would like to express special words of gratitude for
+those who contributed and endeavored to the development of this lecture note and to
+TCC/USAID for the technical and financial support.
+
+
+- ii -
+
+```
+Table of Contents
+```
+Topics Page
+
+Acknowledgement .......................................................................... i
+Table of Contents .......................................................................... ii
+List of Tables ................................................................................ iii
+Abbreviation ................................................................................. iv
+Introduction ...................................................................................
+
+UNIT ONE: General Nutrition ...................................................... 3
+UNIT TWO: Carbohydrates ........................................................
+UNIT THREE: Proteins ...............................................................
+UNIT FOUR: Lipids .....................................................................
+UNIT FIVE: Basal Metabolism ....................................................
+UNIT SIX: Vitamins ......................................................................
+UNIT SEVEN: Mineral Salts ........................................................
+UNIT EIGHT: Water ....................................................................
+UNIT NINE: Growth and Development .......................................
+UNIT TEN: Nutritional Surveillance .............................................
+UNIT ELEVEN: Nutrition Intervention .........................................
+UNIT TWELVE: Essential Nutrition Actions Approach ................
+
+Reference ...................................................................................
+
+
+- iii -
+
+#### List of Tables
+
+Tables Pages
+
+Table 1. Carbohydrate Content of some food .............................
+Table 2. Summary of Carbohydrate digestion .............................
+Table 3. Summary of protein digestion ........................................
+Table 4. Vitamin A content of foods of animal origin....................
+Table 5. Vitamin A content of foods of plant origin.......................
+Table 6. Identification of vitamin A deficiency at the community of
+level................................................................................
+Table 7. Body water components in the reference man...............
+Table 8. Water low classification..................................................
+
+
+- iv -
+
+#### Abbreviations
+
+ABCD = Anthropometry biochemical clinical and dietary methods
+AIDS = Acquired Immuno Deficiency syndrome
+BMR = Basal Metabolic Rate
+CO 2 = Carbon Dioxide
+EAA = Essential Amino Acids
+EBF = Exclusive Breast Feeding
+ENA = Essential Nutrition Actions
+EPI = Expanded Program of Immunization
+FP = Family Planning
+GDP = Gross domestic product
+GMP = Growth Monitoring Programme
+HDL= High Density Lipoprotein
+HFA = Height For Age
+HIV = Human Immuno Deficiency Virus
+IDD = Iodine Deficiency Disorder
+IEC = Information, Education and Communication
+IMCI = Integrated management of Child Illness
+LBW= Low birth weight
+LDL = Low Density Lipoprotein
+NSI = Nutrition Surveillance Information
+PEM = Protein Energy Malnutrition
+PMTCT = Prevention Mother to Child Transmission
+PUFA= Poly Unsaturated Fatty Acids
+RDI = Required Dietary Intake
+STI = Sexual Transmitted Infections
+TWS = Timely warning system
+
+##### WFH = Weight For Height
+
+
+#### Introduction
+
+Many children do not get enough of the right food to eat. They do not
+grow well, they become ill, many die or they do not grow up as clever,
+as healthy.
+
+Causes and consequences of poor nutrition are better understood
+now, and so are the ways to prevent and manage it. Low food intake
+and infections are the immediate causes of malnutrition. The
+underlying causes are insufficient household food security,
+inadequate childcare and insufficient basic health services in the
+community. It includes poor living conditions, lack of education, heavy
+physical work, and frequent childbearing. And the basic causes are
+economic structure, political and ideological superstructure.
+
+The mortality among preschool children is extremely high in
+developing countries in general and in Ethiopia in particular. It is quite
+clear that malnutrition in combination with infection, more often than
+not is, the cause of high morbidity and mortality in Ethiopia.
+Micronutrient deficiencies such as vitamin A, iodine and iron are the
+most prevalent in Ethiopia and it affects mothers and children at
+large.
+
+The entire efforts in the preparation of this lecture note require that
+the elements of nutrition should be understood by Health Extension
+
+
+Students and their Instructors for the implementation of nutrition
+interventions.
+
+
+#### UNIT ONE
+
+#### General Nutrition
+
+##### Learning objectives
+
+At the end of this unit, students will be able to:
+ Define Food, Nutrition, Diet and Malnutrition
+ Understand best practices and harmful traditions, which affect
+nutrition,
+ Explain the dietary guidelines,
+ Outline the important causes of malnutrition,
+
+
+##### Definitions
+
+Food: - is defined as any solid or liquid which when ingested will
+enable the body to carry out any of its life function.
+
+Most foods are made up of several simple substances, which we call
+nutrients. There are six nutrients each of which has specific function
+in the body. Those that supply energy are the carbohydrates and fats.
+Those responsible for growth and repair of tissues cells are proteins.
+Those, which regulate chemical process in the body, are the vitamins
+and minerals. Water is present in most foods and is an indispensable
+component of our bodies. It is the means of transportation for most
+nutrients and is needed for all cellular activities.
+
+Nutrition: - is the sum total of the process by which living things
+receive and utilize the necessary materials for survival, growth and
+maintenance of worn out tissues.
+
+Malnutrition: - is the condition that results from an imbalance
+between dietary intake and requirements. It includes under nutrition,
+which results from less food intake and hard physical work and over
+nutrition results from excess food intake and less physical activities.
+
+Diet: - is defined as food containing all the nutrients in a sufficient
+amount and in proper ratio.
+
+
+Roughage: - is defined as food fibres which enable the body to get
+rid of waste products, which would otherwise become poisonous to
+the body. It prevents gastrointestinal disorders (gastritis, appendicitis,
+gallbladder stone and constipation) and metabolic disorders (diabetes
+mellitus, hypertension, ischemic heart disease and colon cancer).
+
+Dietary guidelines
+ Eat a wide variety of foods
+ Maintain healthy weight
+ Choose a diet low in fat, saturated fat, and cholesterol
+ Choose a diet with plenty of vegetable, fruits and grain
+products
+ Use sugar in moderation
+ Use salt and sodium in moderation
+ If you drink alcoholic beverage, do so in moderation.
+
+Food groups
+♦ Milk, cheese, yoghurt
+♦ Meat, poultry, fish and alternates
+♦ Fruits and vegetables
+♦ Bread and cereals
+♦ Fats, sweets and alcohols
+
+
+Why human beings need food?
+Human beings need food to provide energy for the essential
+physiological functions like:-
+ Respiration
+ Circulation
+ Digestion
+ Metabolism
+ Maintaining body temperature.
+ Growth and repair body Tissues
+
+An adequate supply of nutrients is needed to maintain all the
+functions of the body and daily activities at maximum efficiency, thus
+ensuring healthy living. Health and nutrition are closely linked and to
+ensure proper development and life quality they must be adequate
+from early childhood on and most vulnerable groups are infants,
+young children, pregnant women and lactating mothers.
+
+Diets in public health practice
+ Resettlement areas,
+ HIV/AIDS patients,
+ Displaced compatriots due to natural and man made disasters.
+
+It is important to make sure that any recommended ration scale is
+compared with acceptable standards and that its use is not likely to
+cause deficiency disease
+
+
+Major causes of malnutrition
+ Lack of knowledge in selecting foodstuff with high nutritive value
+ Poverty and infectious diseases
+ Drought
+ Uneven distribution of the available foods
+ Social arrest and civil conflicts,
+ Transport problems (inaccessibility)
+ Increased populations
+ Inadequate weaning
+ Farming technique-insufficient
+ Poor management of resources
+ Topographical differences in different regions (variation in
+productivity)
+ Loss of food through destruction by insects
+ Exploited land due to planting the same type of food crop for
+many years, erosion because of overgrazing and moreover the
+farmers could not use the fertilizers due to many reasons.
+
+Harmful traditional practices with regard to nutrition
+ During period of fasting important nutrients are not eaten, such as
+milk, eggs, butter, meat, fish, meal pattern, etc.
+ Pork is forbidden for religious and cultural reasons
+ Lack of sun light (lack of Vitamin D) during infancy to protect the
+child from the “evil eyes”
+
+
+ Discrimination in feeding among family members, adults before
+children, adult males over adult females
+ Practising heavy meals once, may be twice a day
+ Giving butter to neonate to swallow, hoping to keep the intestine
+smooth
+ Delay to start complementary food
+ Refusing to give the child meat for fear of infection
+ Feeding children with diluted milk
+ Feed children with left over and may be contaminated food
+
+Best practices which favor nutrition
+ Breast feeding
+ Mixing of foods E.g. Injera with wat prepared from
+
+- Cereals
+- Legumes
+- Vegetable
+ Traditional use of dark green leaves “Hbesha Gommen.”
+ Eating cereals in the form of kolo (roasted) and nefro (cooked)
+ Additional high calories and high protein diet for pregnant and
+lactating mothers
+ After the 7th day of delivery the mother and the child warm in the
+sun every morning
+ Eating inset (false banana) which prevents constipation
+ Special care for children and lactating mothers
+ Drinking sour milk and cured milk
+
+
+ Local beverages are constituted from different cereals
+ Eating wild fruits from the forest e.g. Enjory, Kega, Sholla,
+ Honey mixed with butter is eaten in the morning
+ Giving to children a tea-like drink made out of Abish (fenugreek) is
+rich in protein (27 gm/100gm)
+ Good hospitality and sociability
+ Eating of raw vegetables and cereals
+ Taking care of elders.
+
+Good nutrition must meet the needs of varying ages and activities
+and always with individual differences. Therefore, the planning of food
+to meet especial needs begins with:
+
+- Pregnant women
+- Nursing mothers
+- Infants
+- Adolescents and
+- Adults
+
+A well-nourished individual:-
+ Is alert mentally and physically fit
+ Has optimistic outlook on life
+ Has good resistance to infection
+ Shows numerous other signs of good health such as an increased
+life span extending the active and vigorous period of life.
+
+
+The energy requirements of individuals depend on
+♦ Physical activities
+♦ Body size and composition
+♦ Age may affect requirements in two main ways
+
+- During childhood, the infant needs more energy
+    because it is growing
+- During old age, the energy need is less because aged
+    people are engaged with activities that requires less
+    energy.
+♦ Climate: Both very cold and very hot climate restrict outdoor
+activities.
+
+In general feeding is dependent on the controlling centres, appetite
+and satiety in the brain. There are a variety of stimuli, nervous,
+chemical and thermal, which may affect the centres and so alter
+feeding behaviour.
+
+Daily calorie requirements of individuals
+ Infants 1 - 3 years need 1,000 cal/day
+ Children 5 years need 1,500 cal/day
+ Children 5 – 8 years need 1,800 cal/day
+ Children 10 – 12 years need 2,000 cal/day
+ For adolescents and adults calorie requirements depend on the
+degree of physical activities
+
+
+From 13 – 20 years of age
+Office worker Heavy work
+2, 800 cal/day 3,500 cal/day
+Adults
+2,300-cal/day 2,700 cal/day
+Very heavy work up to 4,000 cal/day
+
+For pregnant woman, the daily figure must be increased by 150
+calories for the first trimester and 350 for the second and third
+trimester. For the nursing mother the daily figure must be increased
+by 800 calorie.
+
+Staple foods
+Staple foods are foods, which form the largest part of a nation’s diet.
+They are of plant origin and are classified into three main groups
+ The grain and cereals
+ The roots and tubers
+ The starchy fruits
+
+Discussion questions
+
+1. Define food, nutrition, diet and malnutrition
+2. Explain the dietary guidelines
+3. Why human beings need food? Discuss
+4. Mention the fundamental causes of malnutrition
+7. Discuss the traditions that favor the nutrition condition
+8. Explain traditions that could be harmful to nutritional status.
+
+
+#### UNIT TWO
+
+#### Carbohydrates
+
+##### Learning objectives
+
+At the end of this unit, the students will be able to:
+
+```
+ Mention the sources of carbohydrate
+ Understand the different types of sugars
+ Explain the digestion, absorption and metabolism of
+carbohydrates
+ Describe the hormone responsible for metabolism
+```
+Carbohydrates provide a great part of the energy in all human diets.
+In the diet of poor people, especially in the tropics, up to 85% of the
+energy may come from this source. On the other hand, in the diet of
+the rich people in many countries the proportion may be as low as
+40%. However, the cheapest and easily digestible fuel of humans is
+carbohydrate.
+
+Carbohydrates are components of body substances needed for the
+regulation of body processes. Heparin, which prevents blood from
+clotting, contains carbohydrate. Nervous tissue, connective tissue,
+various hormones, and enzymes also contain carbohydrate. Ribose,
+another carbohydrates are part of Deoxyribonucleic acid (DNA) and
+ribonucleic acid RNA), the substance that carry the hereditary factors
+
+
+in the cell. Carbohydrate is also a component of a compound in the
+liver that destroys toxic substances.
+
+Carbohydrates are necessary for the proper use of fats. If
+carbohydrate intake is low, larger than normal amounts of fats are
+called on to supply energy. The body is unable to handle the
+excessive breakdown of fat. As a result, the fat does not burn
+completely, and abnormal amounts of certain breakdown products
+accumulate in the blood, causing a condition known as ketosis.
+
+Types of carbohydrates
+Monosaccharides:
+ Glucose
+ Fructose
+ Mannose
+ Galactose
+
+Disaccharides:
+ Sucrose (a disaccharide present taste sugar)
+ Lactose (a disaccharide present in milk)
+ Maltose (a disaccharide present in starch)
+
+Sugar alcohol: is found in nature and also prepared commercially.
+Mannitol and dulcitol are alcohol derived from mannose and
+
+
+galactose. Both have a variety of uses in medicine and food
+manufacture.
+
+Honey: is a mixture of glucose and fructose. It is a balanced diet as it
+contains all the nutrients in sufficient amount and proper ratio. Honey
+has also medicinal effect. The bees first cover the beehive with
+antibiotics to prevent the growth and multiplications of micro-
+organisms. If you keep honey for a long time, it will not be spoiled
+because of antibiotics.
+
+Glycogen: is the animal equivalent of starch present in the liver and
+muscle. In most foods of animal origin it is a negligible source of
+dietary carbohydrate. The glycogen in the liver is a reserve fuel and it
+serves between meals and over night. The breakdown of glycogen in
+the liver is facilitated by the hormone glucagons.
+
+Starch: is one form of carbohydrate that is stored in granules in the
+roots and seeds of plants.
+
+
+Table. 1. Carbohydrate content of some food
+
+Food Carbohydrate
+Sugar 100%
+White Flour 80%
+Honey 76%
+Biscuit, semi-sweet 75%
+Jam 69%
+Chocolate, milk 59%
+White bread 50%
+Potatoes 21%
+Apple 12%
+Peas 11%
+Carrots 5.4%
+Milk 4.7%
+
+Digestion and absorption of carbohydrates
+The digestion of carbohydrates begins in the mouth by Ptyalin
+(amylase) produced by the salivary glands. No carbohydrate
+digestion takes place in the stomach. Digestion occurs mainly in the
+small intestine through the action of pancreatic and intestinal juices:
+ Amylase
+ Lactase
+ Sucrase
+ Maltase
+
+
+```
+ Dextrin is degradation products of starch in which the glucose
+chains have been broken down to smaller units by partial
+hydrolysis.
+ Dextran is a carbohydrate polymer obtained from bacterial cell
+wall. This has no part in dietetics but is used in medicine as
+plasma expander.
+```
+```
+Table. 2. Summary of carbohydrate digestion
+Site of
+action
+```
+```
+Carbohydrate Enzyme End – product
+```
+Mouth
+
+Small
+intestine
+
+```
+Starch
+```
+```
+Starch
+```
+```
+Dextrin
+```
+```
+Maltose
+Sucrose
+Lactose
+```
+```
+Amylase in saliva
+(ptyalin)
+Amylase in
+pancreatic juice
+```
+```
+Enzyme in brush
+border of small
+intestine
+```
+```
+Maltase
+Sucrase
+Lactase
+```
+```
+Dextrin- maltose
+Glucose
+Dextrin- maltose
+glucose maltose
+Glucose
+```
+```
+Glucose
+Glucose &
+fructose
+Glucose &
+Galactose
+```
+
+In Health and with normal diet, the available carbohydrate is digested
+and absorbed completely in the small intestine. If an excess of
+unabsorbed carbohydrate arise due to a disorder of the absorption
+mechanisms or occasionally to excessive intake, the osmotic
+pressure (effects) leads to retention of fluids in the lumen and as the
+result there will be watery diarrhoea. This diarrhoea is known as
+osmotic diarrhoea.
+The tissues use as fuel a mixture of glucose and fatty acids. But the
+brain normally uses only glucose and requires around 80g daily.
+
+In starvation glucose may be provided by gluconeogenesis from the
+amino acids in tissues proteins, mainly from muscle proteins, but fats
+cannot be converted into glucose. With prolonged starvation the brain
+adapts and can then utilize fatty acids and ketone.
+
+The two hormones, which control the metabolisms of carbohydrates,
+are insulin and glucagons
+ Insulin is secreted by the beta cells of the islets of Langerhans
+and the secretion is stimulated by:
+
+- Hyperglycemias
+- Parasympathetic nervous activity
+
+Function of insulin
+ To facilitate glucose transport to the liver and muscle cells
+ To facilitate formation of glycogen in the liver and muscle cells
+ To incorporate formation of protein from the amino acids.
+
+
+Glucagons is secreted by the alpha cells of the islet of Langerhans
+and the secretion is stimulated by
+ Hypoglycaemia
+ Sympathetic nervous activity
+
+Function of glucagons
+To facilitate the breakdown of glycogen in the liver and muscle cells
+into glucose
+
+Discussion questions
+
+1. What are carbohydrates and their importance?
+2. What are the sources of carbohydrates?
+3. Discuss the digestion and absorption of
+    carbohydrates.
+
+
+#### UNIT THREE
+
+#### Proteins
+
+Learning objectives
+At the end of this unit, students will be able to:
+ Understand the importance of proteins
+ Describe the digestion and absorption
+ Understand the signs and symptoms of protein energy malnutrition
+ Explain criteria for referral of PEM cases to the nearest health
+facility.
+
+Proteins have long been recognized as fundamental structural
+elements of every cell of the body. Specific proteins and protein
+derivatives have been recognized as functional elements in certain
+specialized cells glandular secretion, enzymes and hormones.
+
+Proteins in natural foods differ widely in the number and the
+proportion of the 22 or more amino acids. A good quality or a
+complete protein is the one that supplies all the essential amino acids
+in sufficient quantities and in proper ratio for normal growth and
+maintenance. In general all proteins from animal source, such as
+meat, poultry, fish, eggs, milk and milk products provide good quality
+proteins.
+
+
+Source of proteins
+ Milk and milk products such as cheese, ice cream all derive their
+protein from milk.
+ Meat, poultry, and fish are all forms of animal tissues
+ Eggs are in a class by themselves a protein food of high nutritive
+value.
+ Vegetables are poor source of protein.
+ Legumes provide more than 4 or 6 percent. They are listed as
+meat alternates in the four-food group chart because they provide
+one of the better quality plant proteins.
+ Bread and cereals make an important contribution to the protein
+of the diet, the protein of uncooked grain ranges 7 to 14 percent.
+
+Digestion and absorption of protein
+The digestion of protein in the alimentary tract is accomplished by the
+action of several proteolytic enzymes in the gastric, pancreatic and
+intestinal juices. Any of these enzymes that have the power to attack
+native proteins must be secreted in an inactive form to prevent
+damage to the tissues where they are formed.
+
+Types of enzymes
+ Pepsinogen is secreted by the gastric juice and activated by the
+Hydrochloric acid
+ Trypsinogen is secreted by pancreatic juice and activated by
+entropeptidase
+
+
+ Chemotrypsinogen is secreted by pancreatic juice and activated
+by the active tripsin
+ Peptidase intestinal juice
+
+Table 3 Summary of protein digestion
+
+```
+Site of
+action
+Protein
+Enzyme
+End – Product
+Stomach
+```
+- Small
+intestine
+
+```
+Protein
+polypeptides
+```
+```
+Polypeptide
+dipeptides
+```
+```
+Pepsin in acid
+Trypsin chemotrypsin
+```
+```
+Peptidase (secreted
+by mucosal cells of
+small intestine
+```
+```
+Enter portal blood
+```
+```
+Liver
+```
+```
+Body tissues
+```
+```
+Large peptide
+poly peptides
+```
+```
+Polypeptides
+Dipepetides
+Amino acids
+```
+```
+Peptides Amino
+acids
+```
+```
+Portal
+```
+
+The Amino Acid Pool
+
+The amino acids from the food or from the body tissues enter a
+common pool, which is drawn upon for the synthesis of proteins,
+hormones, enzymes, blood protein and nucleic acids, or some of the
+amino acids are degraded for energy needs.
+Proteins are absorbed as amino acids. Ideally, they are used to build
+or maintain body proteins. If carbohydrates and fats are not meeting
+the energy needs of the body, amino acids can be used to provide
+energy.
+
+Danger of the weaning period
+
+The weaning period is fraught with dangers for a large proportion of
+the world’s children and nutritional disorders are common at this time
+of life. In the West a general awareness of the nutritional needs of the
+weanling, together with the ability of the average family to provide the
+necessary foods, have helped to remove most of the dangers of the
+weaning period. In the peasant society of developing countries,
+however, parents are generally are unaware of the dietary needs of
+children, and several customs associated with weaning are likely to
+give rise to nutritional deficiencies.
+
+In the traditional society of Ethiopia, weaning is commonly abrupt and
+unplanned. Often it is brought by the occurrence of another
+
+
+pregnancy. There are superstitions and beliefs concerning the effects
+of another pregnancy on the quality of the breast milk. It is believed
+that the heat from the womb “poisons” the milk in the breast. They
+also think that the baby in the womb is jealous of the older sibling on
+the breast. It is therefore considered urgent that the child should be
+taken off the breast immediately. The mother may apply potions
+(bitter material) to the nipples so that when the child takes the breast
+the sharp bitter taste makes him/her give up suckling. The child has
+very close relationship with the mother, the mother takes him/her
+back wherever and whenever she goes to fetch water or to bring
+firewood, the child has also access to breast milk on demand. The
+child sleeps on her back, but this intimacy will be interrupted when the
+mother knows that she is pregnant for the subsequent child. This is a
+psychological blow for the child and causes poor appetite and as the
+result the child can develop protein energy malnutrition.
+
+Protein energy malnutrition (PEM)
+
+PEM is today the most serious nutritional problem in Africa and other
+developing countries. Its two clinical forms are Kwashiorkor and
+Marasmus.
+The diseases occur mostly in children between one and three years
+of age, after they have been taken of the breast.
+
+
+Although there is no final clarity about the etiology of kwashiorkor in
+biomedical terms, it is nevertheless, clear that it is related to
+nutritional deficiencies. Therefore, all factors that could possibly
+contribute to the child malnutrition in general should be avoided.
+These include:
+ Seasonal food shortage
+ Unfavorable family condition,
+ Inadequate water supply and sanitary facilities,
+ Certain traditional attitudes during pregnancy, prenatal period,
+breast-feeding and weaning periods, and
+ All infectious diseases, which generally reduce immunity.
+
+Other diseases may sometime play an important role in precipitating
+the onset of kwashiorkor in already malnourished child. E.g.
+ Gastrointestinal tract infection
+ Diarrhea
+ Intestinal worms share the diet and cause other ill- health and
+poor appetite
+ Constipation
+ Childhood diseases such as measles, whooping cough, etc,
+
+Signs and symptoms of kwashiorkor
+ Growth failure occurs always
+ Wasting of muscle is also typical but may not be evident because
+of edema
+
+
+ There may be mental change
+ Hair and skin color change
+ Diarrhea and vomiting
+ Sign of other micronutrient deficiencies
+
+Skin changes
+Mild: localized hyper pigmentation and skin cracks
+Moderate: skin peals off, desquamation.
+Severe: superficial ulceration, bleeding
+
+Hair changes
+Hair changes are classified into three categories
+Mild: beginning of visible color and structural changes
+Moderate: color and structural changes, loss of hair
+Severe: loss of hair together with ulceration of head
+
+Physiological functions of the various systems are markedly disturbed
+with
+ Diarrhea
+ Electrolyte disturbance
+ Circulatory insufficiency
+ Metabolic imbalance
+ Poor renal functions
+Hence the child with kwashiorkor should be thought of as an
+emergency in need of referral to the nearest health facility.
+
+
+Nutritional Marasmus
+ There is a failure to thrive
+ Irritability, restlessness and diarrhea are frequent.
+ Many infants are hungry, but some anorexic.
+ There are little or no subcutaneous fats.
+ The weight is much below the standard for age.
+ Temperature may be subnormal.
+ The abdomen may be shrunken or distended with gas.
+ Because of the thinness of the abdominal wall, peristalsis may be
+easily visible.
+ The muscles are weak and atrophic and this makes the limbs
+appear as skin and bone
+ Evidence of vitamin deficiencies may or may not be found.
+
+Criteria for referral to the nearest health facility
+ Substantial weight def.<60%WAF or <70% HFA
+ Severe generalized edema and any of the following:
+
+- Anorexia
+- Diarrhea and vomiting
+- Dehydration
+- Loss of consciousness and convulsion
+ Severe anemia <15%of Hematocrit
+ Respiratory distress
+ Hypothermia <35.5^0 c
+ Jaundice
+
+
+After discharge management of PEM
+ To prevent relapse and future deterioration, through nutrition
+education and demonstration of the parents.
+ To achieve long term follow up by health extension workers with
+the view of helping child and the family.
+
+Child status after discharge from hospital
+ Mental state has improved as shown by smiling, response to
+stimuli, awareness, and interest in the surroundings
+ Appetite has returned and he/she is eating well
+ Shows physical activity
+ Temperature is normal
+ No vomiting or diarrhea
+ No edema
+ Starting to gain weight.
+
+Discussion questions
+ What are the importance of proteins?
+ Mention the source of proteins and type of amino acids
+ Discuss the digestion and metabolism of protein
+ Why is weaning period crucial?
+ Protein Energy Malnutrition is very serious in developing
+countries, why?
+ What are the signs and symptoms of Kwashiorkor and
+Marasmus?
+
+
+ Why is the child with PEM considered as an emergency?
+ Mention the criteria for referral.
+
+
+#### UNIT FOUR
+
+#### Lipids
+
+Learning objectives
+At the end of this unit, students will be able to:
+ Classify lipids
+ Identify the source of lipids
+ Explain the importance of lipids
+ Describe digestion and absorption of lipids
+ Tell the importance of essential fatty acids
+
+Definition
+
+Lipids: - are a group of organic compounds that are insoluble in
+water but soluble in organic solvents. Lipids are fats and oils.
+Lipids
+ Are the form of stored energy in animals
+ Have high energy value 9 kcal/gm of fat
+ Act as carriers for fat soluble vitamins
+ Are palatable giving good taste and satiety
+ Serve as insulator preventing heat loss from the body
+ Lubricate the gastrointestinal tract
+ Protect the delicate organs such as Kidney, Eyes, heart and the
+like.
+
+
+Classification of lipids
+
+Lipids are classified into 3 on the basis of their chemical structure.
+ Simple lipids = Fats and oils
+ Compound lipid = Phospho-lipids and lipoproteins
+ Derived lipids= fatty acids and sterols
+ Human beings cannot synthesize the Poly Unsaturated Fatty
+Acids (PUFA), hence they are termed as essential FA.
+ Saturated fatty acids tend to raise blood cholesterol level.
+ Polyunsaturated Fatty Acids lowers blood cholesterol and large
+amounts of unsaturated Fatty Acids are of vegetable origin and
+have lower melting point.
+
+Phospholipids, sterols and lipoproteins
+Phospholipids are structural compounds found in cell membranes.
+They are essential components of enzyme systems and are involved
+in the transport of lipids in plasma.
+
+Sterols
+ These are precursors of vitamin D, which are found both in plants
+and animals. Cholesterol in animal’s tissues, egg yolk butter.
+Ergosterol in plants
+ Lipids are transported in the blood in the form of lipoprotein
+(soluble fat protein complexes).
+ They are 25-30% proteins and the remaining as lipids
+
+
+Lipoprotein
+These are compound lipids that contain both protein and various
+types and amounts of lipids. They are made mostly in the liver and
+are used to transport water-soluble lipids throughout the body and the
+types of lipoproteins are VLDL, LDL, HDL, and Chylomicrons.
+
+Low-density lipoprotein (LDL)
+This is composed mainly of cholesterol. LDL. Transports cholesterol
+from the liver to the tissues. High serum level of LDL greatly
+increases the risk of atherosclerosis ” is a disease in which fatty
+deposits collect along the inside walls of large or medium - sized
+arteries. These deposits clog or narrow the passageway. If blood
+clots become lodged in the narrowed vessels, the blood flow to the
+heart or brain many be partially or completely blocked, resulting in a
+heart attach or stroke”. Diets that are high in saturated fatty acids are
+associated with elevation in LDL cholesterol.
+
+Cholesterol is found only in animal products. Plant foods, regardless
+of their fat content, do not contain cholesterol. Cholesterol is a fatlike
+lipid that normally occurs in the blood and all cell membranes. It is a
+major part of brain and nerve tissues. Cholesterol is necessary for
+normal body functioning as structural material in the body cells, and in
+the production of bile, vitamin D and a number of hormones including
+cortisone and sex hormone.
+
+
+Hereditary, diet, exercise, and other conditions affect blood
+cholesterol levels. Persons with high blood cholesterol levels appear
+to be more likely than those with normal levels to develop
+atherosclerosis.
+
+No recommended dietary allowance has been established for total fat
+or essential fatty acids; however, the reduction in total fat is
+recommended.
+
+The essential fatty acids are:
+ Linoleic acid
+ Linolnic acid
+ Arachidonic acid
+
+- Essential Fatty Acids are needed for the normal
+    functioning of all tissues
+- Essential Fatty Acids form a part of the structure of each
+    cell membrane.
+- Essential Fatty Acids help transport nutrients and
+    metabolites across the cell membrane
+- Essential Fatty Acids are also involved in brain
+    development
+- Essential Fatty Acids are needed for the synthesis of
+    prostaglandin
+
+
+Linoleic acid: occurs abundantly in vegetable oils such as:
+ Corn oils
+ Cottonseed oils
+ Soybeans oils
+ Sesame oils
+ Sunflower oils
+
+Digestion of fats
+
+In the mouth
+Enzyme – lingual lipase
+End products – diglycerides
+
+In the stomach
+Enzyme – Gastric lipase
+End products – Fatty acids, glycerol, diglycerides and monglycerides
+
+In small intestine
+Triglycerides, diglycerides
+Enzyme – Pancreatic lipase
+End products – monglycerides, fatty acids, glycerol
+
+Food source of fats
+ Animal – Fish, butter, beef, pork, and lamb
+ Plant - vegetable, fruit avocado, nuts, margarine, cooking oils
+
+
+Discussion questions
+
+1. What are lipids and their importance?
+2. How do you classify lipids?
+3. What are the essential fatty acids?
+4. Explain the process of digestion?
+5. Why are people afraid of cholesterol?
+6. Discuss LDL, and lipoproteins
+
+
+#### UNIT FIVE
+
+#### Basal Metabolism
+
+Learning objectives
+After the end of this unit, the students will be able to:-
+
+ Understand what basal metabolism is.
+ Explain factors that affect basal metabolism.
+
+Definition
+Basal metabolism: is the energy required to carry on vital body
+processes at rest, which include all the activities of the cells, glands,
+skeletal muscles tone, body temperature, circulation, and respiration.
+In persons who are generally inactive physically, basal metabolic
+needs make up the largest part, about two thirds, of the total energy
+requirement.
+
+Factors affecting basal metabolism
+
+Size and shape
+
+The greater the skin area, the greater will be the amount of heat lost
+by the body and, in turn, greater the necessary heat production by the
+individual. E.g. tall person needs more food than short person with
+the same weight.
+
+
+Age and growth
+They are responsible for normal variation in basal metabolism. The
+relative rate is highest during the first and second years and
+decreases after that, although it is still relatively high through the ages
+of puberty. During adult life there is a steady decrease in rate with a
+marked drop in old age.
+
+Sex
+Sex probably has little effect on metabolism. Women have a lower
+metabolism than men. Women usually have a less fat and less
+muscular development than men.
+
+Climate
+Climate has little effect on BMR, which is always measured in a room
+temperature.
+
+Racial
+Differences in metabolism have been noted. Eskimos have been
+reported to have a BMR above accepted standards.
+
+State of nutrition
+In starvation or under nutrition the BMR is lower.
+
+
+Diseases
+Diseases such as infection or fevers raise the BMR in proportion to
+the elevation of the body temperature.
+
+The internal secretion of certain glands such as the thyroid and the
+adrenal, affect metabolism. Hyperthyroidism accelerates metabolism
+by increasing production of thyroxin.
+
+Sleep,
+Sleep varies depending on individuals, some are restless and others
+are quiet.
+
+Pregnancy
+After four months of gestation the BMR will increase.
+
+Discussion questions
+
+1. What do you understand about basal metabolism?
+2. Explain factors that affect basal metabolism.
+
+
+#### UNIT SIX
+
+#### Vitamins
+
+Learning objectives
+
+At the end of this unit, students will be able to:
+
+ Define vitamins
+ Identify the types of vitamins
+ Describe the functions of vitamins
+ Explain the characteristics of vitamins
+ Understand deficiency syndrome of vitamins
+
+Definition
+Vitamins: are defined as organic compounds, other than any of the
+amino acids, fatty acids and carbohydrates that are necessary in
+small amounts in the diet of higher animals for growth, maintenances
+of health and reproduction.
+
+All animals need vitamins, but not every vitamin that has been
+discovered is needed in the diet of each animal species. E.g. humans
+and guinea pigs need Vitamin C, but dogs, rats, do not need vitamin
+C in their diet because they can synthesis this vitamin in their bodies.
+
+
+Classification of vitamins
+ Vitamin A (Retinol)
+ Vitamin B 1 (Thiamine)
+ Vitamin B 2 (Riboflavin)
+ Vitamin B 6 (pyridoxine)
+ Vitamin B 12 (Cyanocobalamine)
+ Niacin
+ Panthotonic Acid
+ Folacin
+ Biotin
+ Vitamin C (Ascorbic acid)
+ Vitamin D (Cholecalciferol)
+ Vitamin E (Tocopherol)
+ Vitamin K (Antihemorrhagic vitamin)
+
+These vitamins are found in wholesome foods, milk, vegetables,
+fruits, eggs, meat, beans, wholegrain cereals etc.
+
+Function of vitamins:
+ To promote Growth
+ To promote Reproduction
+ To promote Health & vigor
+ To promote Nervous activity
+ To promote Normal appetite
+ To promote Digestion
+
+
+ To promote Utilization
+ To promote Resistances to infection.
+
+Groups of vitamins
+ Water soluble Vitamins are (C and B group)
+ Fat-soluble Vitamins are (A, D, E, and K)
+
+Characteristics of water soluble vitamins
+ They are widely distributed in natural foods
+ B 12 is found only in animal products
+ Soluble in water and absorbed in the intestine
+ Excess will be excreted, thus not toxic.
+ Most functions of these vitamins are as co-enzymes
+ They are important for energy production
+ They are heat labile
+
+Characteristics of fat - soluble vitamins
+ Metabolize along with fats
+ Resistance to heat
+ Stored in the liver and adipose tissue
+ Slow to develop deficiency syndrome
+ Present only in certain foods, mostly in animal products, oily
+foods, yellow and green vegetable
+ Excess can be toxic to the body.
+
+
+Function of vitamin A
+ It controls the general state of the epithelial cells and reduces the
+risk of infection.
+ It is required for the regeneration of two pigments, visual purple in
+the rods of retina and visual violet in the cones of the retina.
+These two pigments are responsible for vision in dim and bright
+light
+ It aids growth and development during childhood
+ It helps to keep the cornea of the eye in healthy condition.
+ Dietary Vitamin A is required for the growth and survival of all
+animals and it is present in most biological tissues.
+ In the visual system the retina is dependent on Vitamin A and its
+metabolites.
+ In the auditory system vitamin A plays a role in the maintenance
+of the middle and inner ear and it also helps the olfactory system,
+ It is required for reproduction, embryonic development and bone
+formation.
+
+Who is affected by Vitamin A deficiency?
+
+Vitamin A deficiency is a major health problem in many developing
+countries. Many children do not survive. Recent research findings
+suggest that improving vitamin A status amongst deficient populations
+can significantly reduce young child mortality. The population groups
+
+
+at highest risk of the deficiency are infants and young children under
+five years.
+
+Vitamin A deficiency in Ethiopia
+
+Vitamin A deficiency is a major public health problem in Ethiopia,
+where prevalence of Bitot’s Spots is high.
+Vitamin A deficiency occurs when vitamin A intakes (or liver stores)
+fail to meet daily metabolic requirements. The most common cause is
+inadequate consumption of vitamin A – rich foods. Deficiency also
+occurs when there is problem of absorption, conversion or utilization
+of vitamin A or when there are repeated infections of diseases such
+as measles or diarrhea. In the absence of foods containing oils or fats
+in the diet, vitamin A is not well absorbed and metabolized.
+
+Animal source of vitamin A
+
+The best sources of vitamin A is animal products such as organ meat
+like liver, whole milk and milk products, eggs, butter, cheese, and fish
+liver oils. Animal sources contain preformed active retinol, which can
+be used effectively by the body. The best source of vitamin A for
+infants is breast milk. The mother’s secretion of vitamin A into breast
+milk, however, is related to her own vitamin A status.
+
+
+Plant source of vitamin A
+
+Plants contain beta-carotene that can be converted into vitamin A by
+the body. The best plant sources of vitamin A are orange, yellow
+colour fruits and vegetables (papaya, mango, pumpkin, tomatoes,
+carrots, yellow sweets potatoes) and dark green vegetables such as
+spinach (Kosta), kale (Gommen) and Swiss chard. Gommen is one
+example of a traditional plant source rich in vitamin A commonly
+consumed in the Ethiopian diet. Gommen is available to most poor
+people for at least 6 months in a year.
+
+Table. 4. Vitamin A content of Foods of Animal Origin
+
+Source (per 100 gm of food) Vitamin A (Retinol) in
+Milligram)
+Fish liver oil 145,000
+Liver, ox 840
+Butter, cow’s 730
+Kidney, Ox 300
+Special baby food milk powder 300
+Egg 200
+Chicken 85
+Milk, whole cow’s 40
+Goat milk 25
+
+
+Table: 5. Vitamin A content of foods of plant origin
+
+```
+Source (per 100 gm of
+food)
+```
+```
+Vitamin A (retinal equivalent
+```
+```
+Carrot raw 1,100
+Sweet potato, raw yellow 510
+Mango, Ripe, without skin 400
+Lettuce, raw 325
+Avocado, raw 90
+Tomatoes, raw 75
+Papaya, raw 75
+Guava, raw 48
+Watermelon 42
+```
+Source: Technical centre for agricultural and rural cooperation and
+Food and Nutrition Cooperation, 1987 (FAO).
+
+What are the consequences of vitamin A deficiency?
+Vitamin A deficiency has long been associated with blindness. But
+more importantly, vitamin A deficiency is associated with increased
+morbidity and mortality among young children. Improvement of
+vitamin A levels among deprived populations has been associated
+with reduction in young child mortality. In countries like Ethiopia,
+where diarrhea, acute respiratory infection, and measles are among
+
+
+major causes of child mortality, improved vitamin A status is likely to
+have a much greater role in reducing young child mortality.
+
+The common symptoms of vitamin A deficiency
+ Night blindness: The child cannot see in the dark. He/she has to
+go in to the house early in the evening
+ Conjuctival xerosis: The conjuctival covering the white surface of
+the eyeballs become dry and rough instead of being moist,
+smooth and shining. The child cannot open and close his/her eyes
+because it is painful.
+ Bitot’s spots: A foamy or cheesy accumulation, which forms in the
+inner quadrant of the cornea in the eyes. The cornea the central
+transparent part of the eye becomes cloudy. It reflects more
+advanced vitamin A deficiency, but tends to be reversible with
+treatment.
+ Corneal ulceration: an ulcer on the cornea may leave scar, which
+can affect vision.
+ Keratomalacia: The eyeballs become opaque and soft, jelly like
+substance; hereafter there will be a rapid destruction of the
+eyeball and no hope of recovery after the condition reached the
+stage of keratomalacia.
+
+Diagnostic criteria for vitamin A deficiency at the community level,
+WHO identifies a vitamin A deficiency as a major public health
+
+
+problem if prevalence of any one of the following in children below six
+years of age exceeds the prescribed levels.
+
+Table: 6. Identifications of vitamin A deficiency at the
+community level
+
+Vitamin A deficiency
+sign/symptoms
+
+Who cut - off level for
+identifying a public health
+problem
+Night blindness >1%
+Bitot’s Spot(s) >0.5%
+Conjuctival
+Xerosis/ulceration/keratomalacia
+>0.01%
+Corneal scar >0.05%
+
+Source: WHO/UNICE, 1994
+
+Prevention of vitamin A deficiency
+ A diet containing plenty of vitamin A is the best.
+ Breast-feed infants for at least one year. Do not discard the 1st
+breast milk soon after delivery.
+ At 6 months start to feed infants with dark green vegetables,
+yellow and orange fruits and if possible, some finely chopped and
+well cooked liver.
+ Include some fats in the child’s diet
+
+
+ Children with diarrhea, measles, respiratory and other serious
+infections need extra vitamin A.
+ Pregnant and lactating mothers should eat foods rich in vitamin A
+every day.
+ Tell families that night blindness is an early warning sign of
+xerophthalmia (Vitamin A deficiency).
+ Teach school children to look for night blindness in young
+children.
+ Learn which vitamin A rich food is available in the locality
+
+Strategies to control and eliminate vitamin A deficiency
+ Universal supplementation of vitamin A
+ Food fortification
+ Food diversification
+
+Universal supplementation of vitamin a capsules (short term
+strategy)
+ Children 6-59 months of age
+ Lactating mothers
+ Pregnant women
+ Targeted diseases i.e. Measles, diarrhea, acute respiratory
+infection, xerophthalmia and PEM.
+Fortification of foods
+Fortification of a widely consumed centrally processed staple food
+with a nutrient is one way of controlling deficiencies of certain
+
+
+nutrients such as iron, vitamin B 1 and vitamin A in many countries.
+Fortification of a nutrient is the addition of the deficient nutrient
+supplements in processed dietary components in factories. In
+industrialized countries the most commonly fortified food products are
+ Wheat flour
+ Bread
+ Milk products
+ Infant formulas
+ Weaning foods.
+[
+In Ethiopia, the most important foods to be fortified are
+ Sugar
+ Salt
+ Oil
+
+Food diversification
+Food diversification is an important strategy, which is considered as a
+long term and sustainable strategy for the prevention of vitamin A
+deficiency. In this regard, people should be encouraged to grow and
+consume vitamin A rich foods at a vast scale in all regions
+
+Vitamin B 1 (Thiamine)
+The vitamin B 1 (thiamine) plays an important part in the utilization of
+carbohydrates, cereals, roots and tubers are especially rich in
+carbohydrates and if these foods are to be properly utilized, it is
+
+
+essential that the daily food intake should supply sufficient vitamin B 1.
+It occurs particularly in cereals but it is localized on the outer surface
+of the grain close to the sheath.
+
+Vitamin B 1 deficiency
+
+1. Acute Beriberi (Dry Beriberi)
+    Symptoms:
+ Epigastric pain
+ Nausea & Vomiting
+ Urgent Cardiac sign of cardiac failure & death
+2. Wet Beriberi
+    Symptoms:
+ Gradual onset
+ Loss of power of limbs
+ Gradually develops edema and ascitis
+3. Chronic Beriberi
+Symptoms:
+     Paralysis of the lower extremities
+     Cramping of the calf muscle
+     Coldness of the feet
+     Stabbing pain on walking
+     Absence of knee and ankle jerks.
+
+
+Vitamin B 2 (Riboflavin)
+Vitamin B 2 is found in many foods, especially in milk, certain
+vegetables and meat. It plays a very important role in assisting the
+various chemical activities, which are essential to life such as cellular
+oxidation, co-enzymes, and function of the nervous system
+
+Deficiency of vitamin B 2 is characterized by:
+ Angular Stomatits with fissuring at the angle of the mouth
+ Cheilosis (Red shiny lips)
+ Glossitis (inflammation of the tongue)
+ Scrotal dermatitis
+ Lacrimation
+ Corneal vascularization
+
+Vitamin B 6 (Pyridoxine)
+It is one of the vitamins about which little is known. It is found in both
+animal and plant foods. The animal foods include chicken, fish,
+kidney, liver, pork, eggs, and plant foods include wheat germ oils,
+soybeans, brawn rice, peanuts and walnuts. Dairy products and
+vegetables are poor sources. Yeast is an important source of B 6.
+
+Deficiency of Vitamin B 6
+ Occurs in combination with deficiencies of other B-complex
+vitamins.
+ Nervous disturbance such as irritability and insomnia is observed.
+
+
+ Muscular weakness, fatigue and convulsion have been recorded
+in infants.
+
+Vitamin B 12 (Cobalamin)
+According to the present evidence this vitamin is found only in animal
+products.
+
+Source of vitamin B 12
+The content of liver and kidney is high, the content of fish, milk and
+meat is medium, and however, the source of B 12 has not been widely
+investigated.
+
+Deficiency of vitamin B12:
+ The red blood cells are abnormally large and are reduced in
+number
+ Stomatits
+ Lack of appetite
+ Poor coordination in walking & mental disturbance
+
+Note: The body effectively regulates the vitamin from bile and other
+secretions. This accounts for its long biologic effectiveness.
+Vegetarians who eat no animal products develop a vitamin B 12
+deficiency only after 20 to 30 years.
+
+
+Source of Niacin
+ Meat, liver, fish, poultry
+ Peanut, peas, beans, and whole grains
+ Milk, eggs, and cheese are poor source, however, they are good
+source of Tryptophan (one of the essential amino acids ), which is
+converted to Niacin
+
+Functions of Niacin
+It affects a number of important metabolic activities needed for the
+maintenance of healthy skin and the proper functioning of the nervous
+and digestive system. Niacin is a coenzyme in energy metabolism
+along with other B-complex vitamins.
+
+Deficiency of Niacin
+Niacin deficiency is common in areas where the staple food is Maize
+because Maize is low in Niacin and Tryptophan one of the essential
+amino acids which is a precursor of Niacin.
+
+Early signs and symptoms of Niacin deficiency
+ Fatigue, poor appetite,
+ Weakness, mild digestive disturbance,
+ Anxiety, irritability,
+ Pellagra (a prolonged niacin deficiency), which is characterized
+by the 4Ds which are:
+
+- Diarrhea
+
+
+- Dermatitis
+- Dementia and finally
+- Death if the disorder is untreated. The skin is dry, scaly,
+    and cracked and the condition is aggravated by
+    exposure to heat or light.
+
+Vitamin C (Ascorbic Acid)
+ Found in fresh vegetables and citrus fruits
+ Vegetables and fruits should not be left soaked in water for a long
+time since it is soluble in water
+ Cooking itself destroys about half of the vitamin C present in the
+food
+ The best way to make sure of a regular intake of vitamin C is to
+eat raw fruits or salad every day.
+
+Functions of vitamin C
+ Helps the formation of various body tissues, particularly
+connective tissues, bones, cartilage and teeth.
+ Stimulates the production of red blood cells,
+ Helps resistance to infection and neutralizes poisons.
+
+Vitamin C is unstable and easily destroyed. Foods lose almost half of
+their vitamin C content when they are cooked and when the foods are
+kept hot after they have been cooked. Drying, storage, bruising,
+cutting, and chopping of fruits and vegetables lead to the loss of
+
+
+vitamin C. Potatoes boiled in their skin retain most of their Vitamin C.
+Therefore, to ensure a regular intake of vitamin C is to take fruits and
+vegetable every day.
+
+Deficiency of Vitamin C
+ Weakness of the wall of the capillaries,
+ Gum bleeding,
+ Loosening of the teeth,
+ Browsing of the skin and petechia
+ The bones become painful, swollen and brittle
+ General weakness and anemia may result if the disorder is not
+treated.
+ Skin abnormalities such as adult acne may be the earliest sign of
+scurvy
+ Hardening and scaling of the skin surrounding the hair follicles
+and hemorrhages surrounding the hair follicles also point to
+scurvy
+ The skin of the forearm, legs and thighs is most affected
+ Scurvy: symptoms include weakness, fatigue, restlessness, and
+neurotic behavior, aching bones, joints, and muscles.
+
+Vitamin D (cholecalciferol)
+Vitamin D is known as the antirachtic vitamin and chemically as
+calciferol. The two most important vitamin D compounds are
+ergocalciferol (vitamin D 2 ) and cholecalciferol (vitamin D 3 ). These
+
+
+substances are formed from precursors in plants, animal and in the
+skin and are converted to vitamin D. by the ultraviolet rays of the sun.
+
+Vitamin D is stored in the liver mainly; some is stored in the brain,
+bones and skin as well. It undergoes changes in the liver, and in the
+kidneys that convert it to active, hormone like form.
+
+Functions of vitamin D
+ Absorption of calcium and phosphorous
+ The presence of vitamin D is essential to the activity of the
+parathyroid hormone in removing calcium and Phosphorous from
+the bone in order to maintain normal serum levels of calcium.
+ Stimulates the reabsorption of Calcium by the kidney when serum
+calcium level is low.
+ Bone formation
+
+Source of vitamin D
+ Fish liver oil is a rich source of vitamin D.
+ A nonfood source is the sunlight for the action of sunlight on the
+skin changes the cholesterol to vitamin D.
+
+Deficiency of vitamin D
+It leads to rickets, which is characterized by weakness and deformity
+of bones. Rickets generally occurs between the six months to the
+second year of life, during the weaning period.
+
+
+On examination the skull bone of rachitic child, we will find the
+following characteristics:
+ Depression will be seen along the suture
+ The forehead is prominent
+ The anterior fontanel remains wide open
+ The abnormalities give the head the general appearance of a box
+ If you press the skull bone with your thumb of a rachitic child, it
+will remain depressed and this known as craniotabus.
+ The chest is narrow and deformed
+ The long limbs curve and may take the shape of a bow and the
+sufferers are referred as bowlegs or it may take the opposite
+shape i.e. the knees may knock together and the sufferers may be
+described as knock-knees.
+ The vertebral column may curve, causing Kyphosis.
+ Rickets in adults is known as osteomalacia, the bones become
+soft and very painful.
+ In women it causes difficult labor, as the pelvis becomes
+contracted, thus narrowing the birth canal.
+
+Vitamin k (Antihemorrhagic vitamin)
+This vitamin can be synthesized by the action of bacteria in the
+intestinal tract of a healthy person. It is also found in liver, fish, and
+green vegetables. Daily requirement is not known. Cooking does not
+destroy it. The liver requires vitamin K for the formation of
+prothrombin a substance needed for clotting mechanism of blood.
+
+
+Deficiency of vitamin K
+A person deficient in Vitamin K shows a tendency to bleed profusely
+whenever blood vessels are injured. The treatment and prevention is
+to provide with high content of vitamin K foods and give vitamin K
+injection to stop active bleeding.
+
+Discussion questions
+
+1. Define vitamins.
+2. State the general functions of vitamins.
+3. What are the characteristics of water and fat soluble vitamins?
+4. Why vitamin A deficiency disease is a very serious health
+    problem?
+5. How can we control and prevent vitamin deficiency diseases?
+
+
+#### UNIT SEVEN
+
+#### Mineral Salts
+
+Learning objectives:
+At the end of this unit, students will be able to:
+ Define minerals
+ Describe the functions of minerals
+ Understand the sources of minerals
+ Identify the deficiency of minerals
+ Explain the importance of water
+
+Definition
+Minerals: are inorganic elements occurring in nature. They are
+inorganic because they do not originate in animal or plant life but
+rather from the earth’s crust. Although minerals make up only a small
+portion of body tissues, they are essential for growth and normal
+functioning of the body. The body can make most of the things it
+needs from energy foods and the amino acids in proteins but it cannot
+make vitamins and minerals.
+
+Benefits of minerals
+ Minerals are essentials both as structural components and in
+many vital processes,
+ Some form hard tissues such as bones and teeth
+ Some are in fluids and soft tissues
+
+
+ For normal muscular activity the ratio between potassium and
+calcium in the extra cellular fluid is important.
+ Electrolytes, sodium and potassium are the most important factors
+in the osmotic control of water metabolism
+ Some minerals may act as catalysts in the enzyme system, or as
+integral parts of organic compounds in the body such as:
+¾ Iron in hemoglobin
+¾ Iodine in thyroxin
+¾ Cobalt in vitamin B 12.
+¾ Zinc in insulin and
+¾ Sulfur in thiamine.
+Plants, animals, bacteria, and other one celled organisms all require
+proper concentration of certain minerals to make life possible.
+
+The principal minerals, which the body requires.
+
+```
+Calcium Chlorine Iron
+Phosphorus Sodium Iodine
+Magnesium Potassium Sulfur
+```
+Animals, in trace quantities, use minerals and these are: Copper,
+Manganese, Cobalt, Zinc, and Fluorine. Other trace elements are
+present in animal tissues, but their functions are uncertain and these
+are Aluminum, Arsenic, Boron, Cadmium, and Silicon.
+In natural foods, minerals present in various forms mixed or combined
+with:
+
+
+```
+ Protein
+ Fats and
+ Carbohydrate
+```
+Iron
+
+Sources of Iron
+ Beef, liver, egg yolk
+ Wheat and Teff
+ Dark green vegetables, onions & fresh fruits.
+
+Daily requirements for men and women are 8 to 10mg and 10 to 18
+mg respectively. For pregnant and lactating mother the requirement
+increases to 20mg. Absorption of iron is enhanced in the presence of
+vitamin C.
+
+Functions of Iron
+It is an essential component of hemoglobin, responsible for the red
+coloring of blood and for the transportation of oxygen to the tissues.
+
+Causes of Iron Deficiency
+ Insufficient iron in diet
+ Blood loss during menstruation
+ Hook worm infestation
+
+
+Causes of anemia are multiple and the main causes are nutritional
+deficiencies, which represent more than half of all cases, blood loss
+through hemorrhage, destruction of red blood cells by infections such
+as malaria and parasitic infections, genetic defects of red blood cells
+and infections by most of febrile diseases and chronic diseases like
+tuberculoses.
+
+Consequences of anemia
+ Delayed psychomotor development and cognitive performance in
+children and adolescence.
+ Neurological manifestation in children and adolescents.
+ In adults, anemia with hemoglobin concentration reduces work
+capacity, mental performance and tolerance to infections.
+ When the level of hemoglobin concentration falls below 4g/ld it
+may cause death from anemic heart failure.
+ can also cause increased maternal mortality due to adverse
+immune reaction,
+ Maternal anemia can cause prenatal infant loss, low birth weight
+and prematurity,
+ Prenatal deaths
+ Reduces work capacity in adults and learning ability in children.
+
+
+Strategies for prevention and treatment of iron deficiency
+
+ Supplementation of iron tablets (with folates) preferably with
+vitamin B 12 and vitamin C
+ Dietary improvement of iron rich foods
+ Changing of dietary habits and food preparation practices through
+nutrition education
+ Fortification of foods with iron
+ Control of malaria infection
+ Control of febrile and chronic diseases,
+ Promotion of hygiene and sanitation,
+ Education, information and communication on iron
+supplementation,
+ Networking and collaborating with relevant sectors on issue,
+
+Who needs more iron?
+ Pregnant women require much higher amount of iron than is met
+by most diets.
+ Many infants beyond 6 months of age need more iron than is
+available in breast milk and common weaning foods.
+ Infants with low birth weight have less iron stores, and are thus at
+a higher risk for deficiency after two months of age.
+
+Therefore, it is important that pregnant women routinely receive iron
+supplements. In places where anemia prevalence is high,
+
+
+supplementation should continue into the postpartum period, to
+enable them acquire adequate stores of iron.
+
+Iodine
+Iodine is one of the micronutrients, which is highly essential for
+regulation of physical growth and neural developments.
+Iodine is an essential component of the thyroid hormones, thyroxin.
+Failure to have adequate level of iodine in the blood leads to
+insufficient production of these hormones, which affect many different
+parts of the body, particularly muscle, liver, kidney, and the
+developing brain.
+
+Sources of Iodine
+ Milk and sea food
+ Drinking water
+ Plant source depends on whether or not iodine present in the soil
+ Iodized salt
+
+Functions of Iodine
+ It is required for normal physical and mental growth.
+ It is required by the thyroid gland for the production of thyroxin,
+which regulates the metabolic rate.
+
+Iodine is naturally found in the top soil, most of the areas in Ethiopia
+specially in the high lands, the top soil is eroded with deforestation,
+
+
+soil erosion and flooding, thus the crop we grow for food do not have
+iodine in them and as a result leads to iodine deficiency. People of all
+ages and sexes are vulnerable but become acute in fetus, children,
+pregnant women and lactating mothers.
+
+Livestock suffer from iodine deficiency in the same way that humans
+do. They eat the same iodine deficient food and drink the same iodine
+deficient water. The introduction of iodized salt in their diet will
+improve their health and productivity; livestock fed iodized salt will
+produce iodine rich milk and meat. An iodine deficient diet will lead to
+increased stillbirth and miscarriages and a reduced yield of milk,
+eggs, meat and wool.
+
+How do we prevent Iodine Deficiency Disorder?
+Iodine Deficiency Disorder can be eliminated by the daily
+consumption of iodized salt. That is why Universal Salt Iodization is a
+crucial mid-decade goal of Ethiopia.
+
+Why salt is iodized?
+Salt has been chosen as vehicle for the supply of iodine because it is
+used universally by all ages, sexes, socio-economic, cultural and
+religious groups throughout the year. Iodized salt is also a preventive
+and corrective measure for iodine deficiency and is the most effective
+low cost, long-term solution to a major public health problem.
+
+
+How long do we need to use iodized salt?
+Iodized salt has to be used on a daily basis as long as one lives in an
+iodine deficient environment. This is the only safe and long-term
+solution to a problem that affects many Ethiopians.
+
+The benefits of iodized salt
+ Universal Salt Iodization can lead to an increase of the average
+intelligence of the entire school age population.
+ The Iodization of salt will mean saving hundreds of thousands of
+Ethiopian children.
+ Iodine enhances intellectual and cognitive development of whole
+generations.
+
+The major consequences of iodine deficiency
+ Mental retardation
+ Defects in the development of nervous system
+ Goiter
+ Physical sluggishness
+ Reduced work capacity
+ Impaired work performance
+ Decreased average intelligence
+ Loss of memory
+ Inability to produce enough milk for offspring
+ Lower birth weight
+ Growth retardation
+
+
+ Dwarfism
+ Deaf-mutism
+ Cretinism
+ Reproductive failures (abortion, prematurity, stillbirth)
+ Increased childhood morbidity and mortality
+ Economic stagnation and
+ Impotency.
+
+Discussion questions
+
+1. What are the functions of minerals?
+2. What are the causes of iron deficiency anemia?
+3. What are the prevention and control methods of iron deficiency
+    anemia?
+4. What are the causes of iodine deficiency?
+5. What are the outcomes of iodine deficiency?
+6. What are the prevention and control methods of iodine
+    deficiency?
+
+
+#### UNIT EIGHT
+
+#### Water
+
+##### Learning objectives
+
+At the end of this unit, the students will be able to:-
+ Explain the importance of water,
+ Tell the sources of water and the relation to body function,
+ State the distribution of water in the body,
+ Describe the normal and abnormal water loss from the body.
+
+Importance of water
+ Water, next to oxygen is the body’s most urgent need. It is more
+essential than food. Without water, nutrients are of no value to the
+body.
+ Failure to understand the role of body water contributes to health
+problems such as indigestion and constipations and even to
+needless death.
+ Infant and children have a greater proportion of water than old
+persons, and obese persons have proportionately less water than
+lean persons,
+ Water is taken in the form of water itself, beverages, such as
+coffee, tea, fruit juices, and milk; and soups,
+ Solid foods contribute the next largest amount of water, as much
+as 25% to 50% of water requirements,
+
+
+ Fresh vegetables and fruits are 80% to 90% water; meat is 50%
+to 60% water, and even bread is about 35% water,
+ The sensation of thirst usually is a reliable guide to water intake.
+Except in infants and sick persons, especially comatose person
+who cannot respond to the thirst stimulus.
+ If losses are not replenished, heat exhausting and possibility heat
+stroke may occur,
+ Dehydration can occur rapidly in comatose patients and in
+disabled or elderly persons with brain impairment that are unable
+to respond to the sensation of thirst,
+ Other conditions, such as fever, diabetes mellitus, vomiting,
+diarrhea, and the use of drugs such as diuretics also increase
+water need.
+
+Body water
+ About half of the adult body weight is water 55% for man and 47%
+for woman.
+ About 2000 to 2500 cc of water is eliminated every day from the
+body carrying waste products with it.
+ The lost water has to be replaced in the form of fluid or foods
+containing water.
+ Although some water is formed, as end products of food
+metabolism, from 6 to 8 glass of water should be drunk every day,
+
+
+Water in relation to body function.
+ It is an essential component of blood and lymph and the secretion
+of the body, as well as the more solid tissues.
+ Moisture is necessary for the normal functioning of every organ in
+the body.
+ Water is the universal medium in which the various chemical
+changes of the body take place.
+ As a carrier water aids in digestion, absorption, circulation and
+excretion.
+ It is essential in the regulation of body temperature.
+ Lubrication of joints and movement of the viscera in the
+abdominal cavity
+ Waste products are transported to the blood in watery solution
+and eliminated by the kidneys.
+
+
+Table. 7. Body water components in the reference man
+
+Model Compartment Kg %
+Molecular
+Cellular
+
+```
+Total body H 2 O
+Intra cellular
+Extra cellular
+```
+###### 40
+
+###### 23
+
+###### 17
+
+###### 100
+
+###### 57
+
+###### 43
+
+Tissue Plasma
+Interstitial
+Bone
+Connective tissue
+Intra-cellular
+
+###### 2.8
+
+###### 8
+
+###### 2.8
+
+###### 2.8
+
+###### 1.6
+
+###### 7
+
+###### 20
+
+###### 7
+
+###### 7
+
+###### 4
+
+Anatomical body water distribution
+Total body water 40 kg
+Extra cellular 17 kg
+Intra cellular 23 kg
+
+Normal loss of water
+
+- From the skin, as perspiration
+- From the lung, as water vapor
+- From the kidney, as urine
+- From the intestine, in the fasces
+
+
+Abnormally
+ Due to kidney disease
+ If there is excessive perspiration due to high environmental
+temperature.
+ Due to diarrhea and vomiting
+ Due to hemorrhage and burn
+
+Dehydration
+The term dehydration implies more than changes in water balance.
+There are always accompanying changes in electrolyte balance.
+When the water supply is restricted or when losses are excessive the
+rate of water loss exceeds the rate of electrolyte loss. Then the extra
+cellular fluid becomes concentrated and osmotic pressure draws
+water from the intra-cellular fluid into the extra-cellular fluid to
+compensate. This condition is called extreme thirst and dehydration.
+
+Discussion questions
+
+1. Discuss the distribution of water in the body.
+2. Mention the importance of water,
+3. Describe the factors causing dehydration.
+
+
+#### UNIT NINE
+
+#### Growth And Development
+
+Learning objectives:
+At the end of this unit, the students will be able to:
+ Understand components of weight during pregnancy
+ Risk factors, which have an influence on a child’s nutritional
+state
+ Describe low birth weight and its causes
+ Explain the nutrition of the mothers
+ Assess the nutritional status
+ Tell uses of nutritional assessment.
+It is worth remembering that the fetus development in 40 weeks from
+the two cells joined at conception into an independent infant with a
+functioning nervous system, lungs, heart, stomach, and kidneys. To
+support this rapid growth and development major changes takes
+place in the mother’s body. Under normal conditions the mother’s
+weight increases by 20 per cent during pregnancy.
+
+Components of weight gain during pregnancy.
+ Fetus, placenta, amniotic fluid 4750gms
+ Uterus and breasts 1300gms
+ Blood 1250gms
+ Water 1200gms
+ Fat 4000gms
+Total 12500gms
+
+
+Causes for low weight gain during pregnancy
+ Low food intake,
+ Many women continue to do hard physical activities like carrying
+wood and water, and do other strenuous jobs until childbirth.
+
+Many factors cause variation in weight at birth, but in developing
+countries the mothers' health and nutritional status and her diet during
+pregnancy are probably most important. Low birth weight (LBW) is
+defined as being below 2.5kg. There are two main reasons for L.B.W:
+ Premature or early delivery
+ Retarded fetal growth
+
+Causes of premature delivery
+ Poor maternal nutrition,
+ High maternal blood pressure
+ Acute infections
+ Hard physical work
+ Multiple pregnancies
+ In many cases the cause is unknown
+
+Causes of retarded fetal growth
+ Fetus, due to infections such as Rubella and syphilis
+ Placenta, if it is abnormally small or with blockage
+ Mother, maternal nutrition and health
+ Anemia
+ Acute or chronic infections such as TB
+
+
+Mothers are often the key care takers for the children in the
+household. They have to be healthy and need the time, the
+knowledge and the right environment to carryout their duties.
+
+Proper care of children
+ Appropriate hygiene and sanitation
+ Safe food preparation and storage
+ Successful breast feeding and adequate weaning practice
+ Psychosocial care such as attention, affection and
+encouragement
+ Equitable health services and a healthy environment,
+ Spacing of child birth.
+
+Children at risk
+High risk factors which often have influences on a child's nutritional
+states are the followings:
+ Low birth weight
+ Twins or multiple births
+ Many children in the family
+ Short intervals between births
+ Poor growth in early life
+ Early stopping of breast milk < 6 moths
+ Introduction of complementary feeding either too early or too late
+ Many episodes of infections
+ Illiterate mothers,
+
+
+ Resources scarcity,
+ Recent migration of mother to the area,
+ Children with single parent.
+
+Assessment of nutritional status
+Nutritional assessment is the process of estimating the nutritional
+position of an individual or groups, at a given point in time, by using
+proxy measurement of nutritional adequacy. It provides an indication
+of the adequacy of the balance between dietary intake and metabolic
+requirement.
+
+Uses of Nutritional Assessment
+It should aim at discovering facts to guide actions intended to improve
+nutrition and health.
+
+ Diagnostic tool; (individual and group)
+
+- Does a problem exist – identify
+- Type of problems
+- Magnitude of the problem
+- Who are affected by the problem
+ Monitoring tool (individuals and group)
+- Requires repeated assessment over time
+- Has the situation changed?
+- Direction and magnitude of change
+
+
+ Evaluation tool (individual or group). To what extent has the
+intervention, treatment, or programme had the intended effect
+(impact)
+
+Anthropometrics assessment
+It is the measurement of the variation of physical dimensions and the
+gross composition of the human body at different age levels and
+degrees of nutrition.
+
+Anthropometrics assessment of growth
+Common measurements include;
+
+- Stature (height)
+- Body weight
+- Skin fold
+- Mid Upper Arm Circumference (MUAC)
+
+Indices derived from growth measurements;
+
+- Weight-for-height,
+- Height-for-age,
+- Body Mass Index (BMI) = Weight in Kg divided by Height in metre
+    square that is Wt/(Ht)^2
+
+
+The Waterlow Classification
+Waterlow pointed out two different types of deficit: a deficit in
+WEIGHT-FOR-HEIGHT (wasting) and a deficit in HEIGHT-FOR-AGE
+('stunting').
+
+1. Waterlow has suggested classification based on wasting (current
+    malnutrition) or stunting (chronic malnutrition)
+       WFH = 80% of the Reference standard or
+       –2.5D below the median
+       HFA = 90% or – 2.5D below the median
+
+Table: 8. Waterlow classification
+
+Identification malnutrition superficially
+Changes in the superficial tissues or in organs near the surface of the
+body, which are readily seen or felt upon examination. These include
+changes in:
+
+- Eyes
+- Skin
+- Hair
+- Thyroid gland
+
+```
+Weight
+Above Below
+```
+Height (^) Above Normal Acute malnutrition
+Below
+Nutritional
+Dwarfism
+Chronic
+Malnutrition
+
+
+Common indicators
+ Edema
+ Dyspigmentation of the hair
+ Angular Stomatits
+ Corneal lesions
+ Swelling (enlargement) of glands
+
+Discussion questions
+
+1. Why do women increase during pregnancy?
+2. State causes for low weight gain during pregnancy.
+3. What are the two main reasons for low birth weight?
+4. What are the nutritional risk factors which have an influence on a
+    child’s nutritional state?
+
+
+#### UNIT TEN
+
+#### Nutritional Surveillance
+
+Learning objectives
+At the end of this unit, the students will be able to:
+ Understand the objectives of nutritional surveillance
+ Describe the uses and users of Nutritional Surveillance
+ Explain the nutritional outcome indicators
+ Understand timely warning and copping mechanisms.
+
+Nutritional surveillance: is defined as the measurement of the
+frequency and distribution of nutrition related diseases or problems
+using regularly collected and available information. It comprises the
+compelling and analysis of nutrition information for decision making
+relative to national or regional polices or programme planning.
+Nutritional surveillance could be concerned with everything that
+affects nutrition, from food production, distribution, and intake to
+health status itself.
+
+Objectives of nutritional surveillance
+ To provide information so that decision can be more favorable to
+nutrition
+ To increase the allocation of resources to improve the nutrition of
+the malnourished in drought and famine condition.
+
+
+Potential users of Nutritional Surveillance Information (N.S.I)
+ Ministry of health
+ Ministry of agriculture,
+ Government and nongovernmental organizations.
+
+Nutritional outcome indicators
+ Prevalence of malnutrition among preschool children (<80% WFH)
+ Prevalence of birth weight infants (<2.5kg)
+ Prevalence of stunting in school entrants (<90% HFA)
+ Estimate of infant and/or child mortality rate.
+ Quality of housing
+ Water supply
+ Sanitation and literacy rate.
+
+Discussion questions
+
+1. Define nutritional surveillance
+2. What are the objectives of nutritional surveillance?
+3. What are the uses and who are the users of nutritional surveillance
+    information?
+4. What are the nutritional outcome indicators used in nutritional
+    surveillance?
+
+
+#### UNIT ELEVEN
+
+#### Nutrition Intervention
+
+Learning objectives:
+At the end of this unit, students will be able to:
+ Understand methods of intervention
+ Mechanisms of intervention
+ Describe the criteria for successful intervention
+
+When there is a nutritional problem in a community, if the magnitude
+and the causes of the problem are known, we will plan to do
+intervention.
+
+Methods of nutrition intervention
+ Food fortification
+ Food for work
+ Price subsidization
+ Supplementation
+ Family planning
+ Integration of nutrition with health
+ Price policy
+
+Mechanisms of nutrition interventions
+There are five principal mechanisms through which all interventions
+work.
+
+
+ Availability of food at local or regional level. Making the required
+foods more available with the respect to place and time.
+ Accessibility to food and availability of foodstuff at the household
+level. Making the required foods more accessible and available to
+the households
+ Food utilization at household level. Making better use of available
+foods. Food processing such as fermentation, preparing weaning
+food.
+ Distribution within the household.
+¾ Intra household distribution of food
+¾ Supplementation
+¾ Education
+ Physiological utilization
+¾ Health service activities and environmental sanitation
+¾ Primary health care
+¾ Environmental health
+
+Criteria used for successful interventions
+ Relevance of the intervention to solve the problem at hand
+ Feasibility
+ Integratability
+ Effectiveness
+ Ease in targeting
+ Cost effectiveness
+
+
+ Ease in evaluation
+ Long-term continuation
+
+Discussion questions
+
+1. What are the five principal mechanisms through which all nutrition
+    interventions work?
+2. Mention the criteria for successful intervention.
+
+
+#### UNIT TWELVE
+
+#### Essential Nutrition Actions Approach
+
+An action oriented approach to nutrition...
+If we use ENA approach to nutrition, estimated decrease of child
+mortality is 25%. The seven essential actions and the six contact
+points should be included in the curricula of all health science
+students.
+
+There are seven action areas:
+
+1. Promotion of Breastfeeding
+Key messages
+    - Timely initiation of breastfeeding (1 hour of birth)
+    - Exclusive breastfeeding until six months
+    - Breastfeed day and night at least 10 times
+    - Correct positioning & attachment
+    - Empty one breast before switching to the other
+Estimated decrease of child mortality is 13% if the child is optimally
+breastfed
+2. Appropriate Complementary Feeding
+Key messages:
+    - Introduce appropriate complementary foods at 6 months
+    - Continue breastfeeding until 24 months & more
+
+
+- Increase the number of feeding with age
+- Increase density, quantity and variety with age
+- Responsive feeding
+- Ensure good hygiene (use clean water, food and utensils)
+3. Feeding of the sick child
+Key messages:
+- Increase breastfeeding and complementary feeding during
+and after illness
+- Appropriate Therapeutic Feeding.
+4. Women's nutrition:
+Key messages:
+- During pregnancy and lactation
+¾ Increase feeding
+¾ Iron/folic Acid Supplementations
+¾ Treatment and prevention of malaria
+- De-worming during pregnancy
+- Vitamin A Capsule after delivery
+5. Control of Vitamin A Deficiency:
+Estimated decrease of child mortality is 2%
+Key messages:
+- Promote breastfeeding: source of vitamin A
+- Vitamin A rich foods
+
+
+- Maternal supplementation
+- Child supplementation
+- Food fortification
+6. Control of Anaemia
+Key messages:
+- Supplementation of women and children (IMCI)
+- De-worming for pregnant women and children (Twice/year)
+- Malaria control
+- Iron rich foods
+- Fortifications
+7. Control of Iodine Deficiency Disorders:
+Key messages
+Access and consumption by all families of iodized salt
+How the Essential Nutrition Actions expands coverage of nutrition
+support in the health sector:
+
+There are six critical contact points in the lifecycle
+
+1. During Antenatal Care
+    - Pregnancy: TT
+    - Antenatal visit, Iron/Folic Acid
+    - De-worming
+    - Maternal diet
+    - EBF
+
+
+- Risk signs, FP, STI prevention
+- Safe delivery, iodized salt
+2. Delivery;
+- Safe delivery,
+- EBF,
+- Vitamin A, Iron/Folic Acid
+- Diet, FP and STI, Referral
+3. Postnatal and Family Planning:
+- EBF, Diet, Iron/Folic Acid
+- FP, STI prevention
+- Child's vaccination
+4. Immunizations:
+- Vaccination, Vitamin A
+- De-worming
+- Assess and treat infant's anemia
+- FP, STI, Referral
+5. Well child and GMP:
+- Monitor growth
+- Assess and counsel on feeding
+- Iodized salt
+- Check and complete vaccination
+- Vitamin A/de-worming
+6. Sick child:
+- Monitor Growth
+- Assess and treat per IMCI
+
+
+- Counsel on feeding
+- Assess and treat for anemia,
+- Check and complete vitamin A
+- Immunization/de-worming
+
+Need to integrate ENA into other health programme
+
+1. a) Child survival EPI+
+b) Community IMCI
+c) Health facilities IMCI
+2. a) Reproductive Health
+b) Women's Nutrition
+c) Lactational Amenorrhea Method
+3. a) National immunization Days Polio and Measles
+4. a) Nutrition programme positive deviance community
+GMP
+5. a) Infectious Diseases, Control of Malaria,
+Tuberculoses HIV/AIDS (PMTCT)
+How the Essential Nutrition Actions expand coverage outside the
+health sector?
+
+Need to integrate ENA into other sectors
+
+1. a) Schools, Adolescent nutrition
+b) De-worming
+c) Iron supplementation
+d) School lunch
+
+
+2. a) Agriculture, food diversification
+b) Food security
+c) Women's farmers clubs
+3. a) Emergency women to women support
+4. a) Sanitation, clean water & sanitation
+b) Public health education
+c) Prevention of diarrhoea, malaria, ARI
+5. a) Micro-credit, income generation
+b) Nutrition education
+
+The most visible evidence of good nutrition is a taller, stronger,
+healthier child who learns more in school and become productive,
+happy adults who participate in society.
+Malnutrition dose not need to be severe to pose a threat to survival.
+Worldwide, fewer than 20% of deaths associated with childhood
+malnutrition involve severe malnutrition; more than 80% involve only
+mild or moderate malnutrition.
+
+
+Reference
+
+1. Ann Burgess. Nutrition for developing countries.
+2. Food and Nutrition Board, National
+3. Frederica Jacob. Lecture Note for a course in applied Human
+    Nutrition
+4. Marian Maltese Eschleman. Introduction Nutrition and diet
+    Therapy
+5. Michel Golden. The Management of Severe Malnutrition a
+    Suggested Manual for Ethiopia, July 2002
+6. G. J. Ebrahim. Nutrition in Mother and Child Health
+7. Modern Nutrition in Health and Disease. Maurice E. Shils 1994.
+8. Modern Nutrition in Health Research Council. National Academy
+    Press, 1989.
+9. Retain palmitate supplementation by inhalation of an aerosol
+    improves vitamin A status of preschool children in Gondar Region,
+    Ethiopia. British Journal of Nutrition (1999), 82, 000-000.
+10. Mekonnen Assefa et al.2002. Ethiopian Journal of Health
+    Development volume 16, special issue.
+11. Tigist. K. et al.1996. Breastfeeding in Addis Ababa, Ethiopia.
+    Ethiopian Journal of Health Development volume 10, no. 3.
+12. Melkie. E. Getinet E. The prevalence of low birth weight and
+    factors associated with low birth weight in Gondar region,
+    northwest Ethiopia.
+
+
+13. Melkie Edris. Nutritional Status of preschool children in Dera
+    woreda, northwest Ethiopia. East African Medical Journal Vol.77
+    No.8 August 2000.
+
+
